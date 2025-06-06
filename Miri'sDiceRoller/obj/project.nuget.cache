@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "1JD0xUnt7WylGsHiZG35N8ZoRs3UFe/olySVeZM0zk5a7kzg18VKrzUB6LZ6jw6e+4uAo1kSjLynl3Q4/VdBAA==",
+  "success": true,
+  "projectFilePath": "Z:\\Хобби-Проги\\Miri'sDiceRoller\\Miri'sDiceRoller\\Miri'sDiceRoller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\super pc\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\super pc\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "C:\\Users\\super pc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\super pc\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\super pc\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\super pc\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\super pc\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512",
+    "C:\\Users\\super pc\\.nuget\\packages\\telegram.bot\\22.5.1\\telegram.bot.22.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
