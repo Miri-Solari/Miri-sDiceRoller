@@ -7,8 +7,14 @@ using Telegram.Bot.Types.Enums;
 
 using var cts = new CancellationTokenSource();
 
+Console.WriteLine("Введите токен вашего бота");
+string? botToken = Console.ReadLine();
 var roller = new Roller();
-var bot = new TelegramBotClient("8181239922:AAHJyI4m8FYsMcXjQEMAlQ8uhPU-Ejymd1g");
+if (botToken == null)
+{
+    Environment.Exit(1);
+}
+var bot = new TelegramBotClient(botToken);
 var me = await bot.GetMe();
 bot.OnMessage += OnMessage;
 

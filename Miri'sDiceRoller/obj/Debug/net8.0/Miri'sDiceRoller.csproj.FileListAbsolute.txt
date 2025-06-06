@@ -22,3 +22,4 @@ Z:\Хобби-Проги\Miri'sDiceRoller\Miri'sDiceRoller\obj\Debug\net8.0\refi
 Z:\Хобби-Проги\Miri'sDiceRoller\Miri'sDiceRoller\obj\Debug\net8.0\Miri'sDiceRoller.pdb
 Z:\Хобби-Проги\Miri'sDiceRoller\Miri'sDiceRoller\obj\Debug\net8.0\Miri'sDiceRoller.genruntimeconfig.cache
 Z:\Хобби-Проги\Miri'sDiceRoller\Miri'sDiceRoller\obj\Debug\net8.0\ref\Miri'sDiceRoller.dll
+Z:\Хобби-Проги\Miri'sDiceRoller\Miri'sDiceRoller\obj\Debug\net8.0\Miri'sDiceRoller.sourcelink.json
