@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Miri\'sDiceRoller")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57e7d2904c4626db8214a9399d63b93a61fb2c5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b9ac561c08ec265c30fd1bcfafc95b409cf5392")]
 [assembly: System.Reflection.AssemblyProductAttribute("Miri\'sDiceRoller")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Miri\'sDiceRoller")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "Z:\\\u0425\u043E\u0431\u0431\u0438-\u041F\u0440\u043E\u0433\u0438\\Miri\u0027sDiceRoller\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8C51F4C-EFA7-4BCD-9B17-807FB2EC5712}|Miri\u0027sDiceRoller\\Miri\u0027sDiceRoller.csproj|z:\\\u0445\u043E\u0431\u0431\u0438-\u043F\u0440\u043E\u0433\u0438\\miri\u0027sdiceroller\\miri\u0027sdiceroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8C51F4C-EFA7-4BCD-9B17-807FB2EC5712}|Miri\u0027sDiceRoller\\Miri\u0027sDiceRoller.csproj|solutionrelative:miri\u0027sdiceroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8C51F4C-EFA7-4BCD-9B17-807FB2EC5712}|Miri\u0027sDiceRoller\\Miri\u0027sDiceRoller.csproj|z:\\\u0445\u043E\u0431\u0431\u0438-\u043F\u0440\u043E\u0433\u0438\\miri\u0027sdiceroller\\miri\u0027sdiceroller\\roller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8C51F4C-EFA7-4BCD-9B17-807FB2EC5712}|Miri\u0027sDiceRoller\\Miri\u0027sDiceRoller.csproj|solutionrelative:miri\u0027sdiceroller\\roller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8C51F4C-EFA7-4BCD-9B17-807FB2EC5712}|Miri\u0027sDiceRoller\\Miri\u0027sDiceRoller.csproj|z:\\\u0445\u043E\u0431\u0431\u0438-\u043F\u0440\u043E\u0433\u0438\\miri\u0027sdiceroller\\miri\u0027sdiceroller\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8C51F4C-EFA7-4BCD-9B17-807FB2EC5712}|Miri\u0027sDiceRoller\\Miri\u0027sDiceRoller.csproj|solutionrelative:miri\u0027sdiceroller\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C51F4C-EFA7-4BCD-9B17-807FB2EC5712}|Miri\u0027sDiceRoller\\Miri\u0027sDiceRoller.csproj|z:\\\u0445\u043E\u0431\u0431\u0438-\u043F\u0440\u043E\u0433\u0438\\miri\u0027sdiceroller\\miri\u0027sdiceroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C51F4C-EFA7-4BCD-9B17-807FB2EC5712}|Miri\u0027sDiceRoller\\Miri\u0027sDiceRoller.csproj|solutionrelative:miri\u0027sdiceroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,42 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Parser.cs",
               "DocumentMoniker": "Z:\\\u0425\u043E\u0431\u0431\u0438-\u041F\u0440\u043E\u0433\u0438\\Miri\u0027sDiceRoller\\Miri\u0027sDiceRoller\\Parser.cs",
               "RelativeDocumentMoniker": "Miri\u0027sDiceRoller\\Parser.cs",
               "ToolTip": "Z:\\\u0425\u043E\u0431\u0431\u0438-\u041F\u0440\u043E\u0433\u0438\\Miri\u0027sDiceRoller\\Miri\u0027sDiceRoller\\Parser.cs",
               "RelativeToolTip": "Miri\u0027sDiceRoller\\Parser.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAeAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwC8AAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T02:42:33.12Z"
+              "WhenOpened": "2025-06-06T02:42:33.12Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Roller.cs",
               "DocumentMoniker": "Z:\\\u0425\u043E\u0431\u0431\u0438-\u041F\u0440\u043E\u0433\u0438\\Miri\u0027sDiceRoller\\Miri\u0027sDiceRoller\\Roller.cs",
               "RelativeDocumentMoniker": "Miri\u0027sDiceRoller\\Roller.cs",
               "ToolTip": "Z:\\\u0425\u043E\u0431\u0431\u0438-\u041F\u0440\u043E\u0433\u0438\\Miri\u0027sDiceRoller\\Miri\u0027sDiceRoller\\Roller.cs",
               "RelativeToolTip": "Miri\u0027sDiceRoller\\Roller.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAQwEEAAAAAAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwDwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T02:16:29.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "Z:\\\u0425\u043E\u0431\u0431\u0438-\u041F\u0440\u043E\u0433\u0438\\Miri\u0027sDiceRoller\\Miri\u0027sDiceRoller\\Program.cs",
               "RelativeDocumentMoniker": "Miri\u0027sDiceRoller\\Program.cs",
               "ToolTip": "Z:\\\u0425\u043E\u0431\u0431\u0438-\u041F\u0440\u043E\u0433\u0438\\Miri\u0027sDiceRoller\\Miri\u0027sDiceRoller\\Program.cs",
               "RelativeToolTip": "Miri\u0027sDiceRoller\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T01:52:06.809Z",
               "EditorCaption": ""

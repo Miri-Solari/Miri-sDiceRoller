@@ -18,7 +18,7 @@ namespace Miri_sDiceRoller
         public string NewRoll(string message)
         {
 
-            var rollParams = parser.Parse(message);
+            var rollParams = parser.Parse(message); // Get needed parameters as Dict and write in field
             _dicePool = rollParams["DicePool"];
             _dice = rollParams["Dice"];
             _difficult = rollParams["Difficult"];
@@ -34,7 +34,7 @@ namespace Miri_sDiceRoller
             return Roll();
         }
 
-        private string Roll()
+        private string Roll() // roll the dice :3
         {
             int res = 0;
             int succ = 0;
@@ -43,6 +43,11 @@ namespace Miri_sDiceRoller
             List<int> results = new List<int>();
 
             int temp;
+            if (_will)
+            {
+                succ = 1;
+                _dicePool--;
+            }
             for (int x = 0; x < _dicePool; x++) 
             {
                 temp = _random.Next(1, _dice+1);
